@@ -4,7 +4,7 @@ This is a repository for NYU DS 1001 project.
 
 ## Contributors:
 
-*   Si Gao (si.gao@nyu.edu) 
+*   Si Gao (si.gao@nyu.edu)
 *   Xinli Gu (xg588@nyu.edu)
 *   Xirui Fu (xf620@nyu.edu)
 *   Wenxin Zhang (wz2164@nyu.edu)
@@ -20,15 +20,21 @@ The advent of crowd-sourcing review platforms makes business information readily
 ## Models:
 
 *   Collaborative Filtering via Matrix Factorization
-    *   Baseline Model (bias only)
-    *   ALS Model (without bias correction)
-    *   SGD Model (bias correction)
-*   Content-based Filtering
-    *   Similarity-based Model using Restaurant Attributes
-    *   NLP for Restaurant Reviews (Tf-idf)
-    *   Latent Semantic Indexing (LSI)
-*   Hybrid Model: 
-    *   LightFM Model
+*   Content-Based Filtering
+*   Model Ensemble
+*   LightFM Hybrid Model
+
+## Methods Used:
+
+*   Data Visualization
+*   Model-Based Collaborative Filtering
+*   Matrix Factorization
+*   Natural Language Processing
+*   Content-Based Filtering
+*   Cosine Similarity
+*   Latent Semantic Indexing
+*   Model Ensemble
+*   Hybrid Model
 
 ## Final Report
 
