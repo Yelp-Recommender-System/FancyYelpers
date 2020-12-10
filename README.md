@@ -36,22 +36,6 @@ The advent of crowd-sourcing review platforms makes business information readily
 *   Model Ensemble
 *   Hybrid Model
 
-## What's Included?
-
-```
-var routes = (
-  <Route name="App">
-    <Route name="Admin">
-      <Route name="Users"/>
-      <Route name="Reports"/>
-    </Route>
-    <Route name="Course">
-      <Route name="Assignments"/>
-    </Route>
-  </Route>
-);
-```
-
 ## Final Report
 
 The final report can be found [here](DSGA1001_project_Yelp_RecSys.pdf)
