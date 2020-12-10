@@ -36,21 +36,6 @@ The advent of crowd-sourcing review platforms makes business information readily
 *   Model Ensemble
 *   Hybrid Model
 
-```
-$ tree
-.
-├── dir1
-│   ├── file11.ext
-│   └── file12.ext
-├── dir2
-│   ├── file21.ext
-│   ├── file22.ext
-│   └── file23.ext
-├── dir3
-├── file_in_root.ext
-└── README.md
-```
-
 ## Final Report
 
 The final report can be found [here](DSGA1001_project_Yelp_RecSys.pdf)
