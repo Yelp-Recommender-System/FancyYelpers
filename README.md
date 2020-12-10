@@ -38,7 +38,7 @@ The advent of crowd-sourcing review platforms makes business information readily
 
 ## What's Included?
 
-var routes = (  \<Route name="App">    \<Route name="Admin">      \<Route name="Users"/>      \<Route name="Reports"/>    \</Route>    \<Route name="Course">      \<Route name="Assignments"/>    \</Route>  \</Route> );
+{  modulesDirectories: \['shared', 'node\_modules'\] }
 
 ## Final Report
 
