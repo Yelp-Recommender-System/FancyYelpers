@@ -4,10 +4,10 @@ This is a repository for NYU DS 1001 project.
 
 ## Contributors:
 
-*   Si Gao (si.gao@nyu.edu)
-*   Xinli Gu (xg588@nyu.edu)
-*   Xirui Fu (xf620@nyu.edu)
-*   Wenxin Zhang (wz2164@nyu.edu)
+*   [Si Gao](https://github.com/gaosi107) (si.gao@nyu.edu)
+*   [Xinli Gu](https://github.com/qianchangpri) (xg588@nyu.edu)
+*   [Xirui Fu](https://github.com/xixixirui) (xf620@nyu.edu)
+*   [Wenxin Zhang](https://github.com/wendyZhang98) (wz2164@nyu.edu)
 
 ## Data:
 
